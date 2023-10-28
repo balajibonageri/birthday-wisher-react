@@ -14,7 +14,6 @@ To get It running locally:
 ## Usage:
 
 Click on Generate Link
-or Head to [https://birthday-wisher.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
 
@@ -28,7 +27,6 @@ And There You Go ! 🎉
 ## Birthday Wisher🎂
 
 Loads this Page Instead of Coutdown on the Birthday
-![ScreenShot of Countdown](screenshots/wishPage.png)
 
 It's Fully Responsive and you change styles in the `app.css`
 
