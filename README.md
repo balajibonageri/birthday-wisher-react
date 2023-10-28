@@ -13,22 +13,16 @@ To get It running locally:
 
 ## Usage:
 
-Visit [https://birthday-wisher.netlify.app/]()
-
 Click on Generate Link
 or Head to [https://birthday-wisher.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
-
-![ScreenShot of Form](screenshots/generate.png)
 
 Click on Generate Link
 
 You Can see a Link being generated Copy or Visit the link by Clicking on the Button
 
 And There You Go ! 🎉
-
-![ScreenShot of Form](screenshots/duma.png)
 
 
 ## Birthday Wisher🎂
