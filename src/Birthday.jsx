@@ -111,7 +111,7 @@ const Birthday = ({ name, day, month }) => {
             Birth-Date: {day} {monthBday} {currentYear}
           </div>
           <div className='credits'>
-            <a href='https://github.com/Deep-Codes'>
+            <a href='https://github.com/balajibonageri'>
               <img src={githubLogo} alt='Github-Logo' className='github-logo' />
             </a>
           </div>
