@@ -4,7 +4,6 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://birthday-wisher.netlify.app/
 
 To get It running locally:
 
@@ -31,9 +30,6 @@ And There You Go ! 🎉
 
 ![ScreenShot of Form](screenshots/duma.png)
 
-## ScreenShot of Coutdown Timer⏲️
-
-![ScreenShot of Countdown](screenshots/countdown.png)
 
 ## Birthday Wisher🎂
 
